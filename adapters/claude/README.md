@@ -2,7 +2,7 @@
 
 ## Claude Code (recommended: skills + slash commands)
 ```bash
-git clone https://github.com/YOUR_USER/universal-apk-skills.git
+git clone https://github.com/Yunexceo/AI-SKILLS-ENGINEERING.git
 cd universal-apk-skills
 scripts/install/install.sh --target claude                                  # user-wide: ~/.claude/skills + ~/.claude/commands
 scripts/install/install.sh --target claude --scope project --project-dir /path/to/project   # one project
