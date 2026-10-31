@@ -1,0 +1,20 @@
+
+# Universal APK Skills (loader)
+
+Repository root = the folder containing `AGENTS.md` (commonly `./universal-apk-skills/` or `./.apk-skills/`).
+Before acting on any APK task or command below, read `AGENTS.md` and the matching `skills/<skill>/SKILL.md`, then follow its `### /<command>` section. Never claim the repository is installed or that a command ran unless you verified it.
+
+| Skill | Commands |
+|---|---|
+| engineeringapk | /engineeringapk |
+| analyzeapk | /analyzeapk /apkscan /apkdex /manifestcheck /apkresources |
+| modifyapk | /modifyapk /customizeapp /changeappicon /changeapplogo /changeappname |
+| rebuildapk | /rebuildapk /apkbuild |
+| gamemodding | /gameanalysis /gamedebug /gameassets /gameui /gameoptimization |
+| androidsecurity | /apksafety /securityaudit /permissionaudit /networkanalysis /malwareanalysis |
+| apksigning | /apksign /apkverify /apkinstall |
+| androiddevelopment | /androidmanifest /androiddebug /androidproject /androidoptimize |
+| apkhelp | /helpapk |
+
+Rules: only authorized APKs; never modify the original; never invent tool output; refuse licensing/anti-cheat/credential/malware requests (see AGENTS.md).
+If the repository folder is not in the workspace, say so and ask the user to add it instead of guessing.
