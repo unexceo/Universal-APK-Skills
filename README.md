@@ -6,7 +6,7 @@ A modular AI skills framework for **legitimate Android APK reverse engineering, 
 
 ## Install (quick start)
 ```bash
-git clone https://github.com/YOUR_USER/universal-apk-skills.git && cd universal-apk-skills
+git clone https://github.com/unexceo/universal-apk-skills.git && cd universal-apk-skills
 scripts/install/install.sh --target claude        # Claude Code: skills + slash commands
 scripts/install/install.sh --target agents        # Codex and other .agents/skills readers
 scripts/install/install.sh --target gemini        # Gemini CLI (skills directory)
