@@ -1,0 +1,6 @@
+{
+  "name": "universal-apk-skills",
+  "version": "1.0.0",
+  "description": "Android APK reverse engineering, modification, rebuild, signing and security-analysis skills.",
+  "contextFileName": "GEMINI.md"
+}
